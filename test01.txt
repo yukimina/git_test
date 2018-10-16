@@ -2,6 +2,10 @@ test01
 
 branch01
 
+<<<<<<< HEAD
 
 
 add02
+=======
+add01
+>>>>>>> branch01
